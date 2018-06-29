@@ -2,7 +2,7 @@
 title: "PA1_template.Rmd"
 author: "Allison Harney"
 date: "June 22, 2018"
-output: html_document
+output: github_document
 ---
 #Reproducible Research: Project 1
 ```{r setup, include=TRUE}
